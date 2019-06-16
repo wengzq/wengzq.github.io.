@@ -13,7 +13,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Shadow Walker
+  name: Å¬Á¦³ÔÆ¨µÄzwm
   tagline: Blog
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -21,7 +21,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: duckydunky
-    github:  wengzq.github.io.
+    github:  wengzq/wengzq.github.io.
 
     rss: rss
     # dribbble: jekyll
