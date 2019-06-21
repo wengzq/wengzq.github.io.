@@ -29,4 +29,4 @@ First of all, we assume that in general there exist three possible explanations 
 
 model replaces all5@5convolutions by simple3@3convolutions. This serves two purposes: 1) it unifies the architecture to consist only of layers operating on 3@3 spatial neighborhoods of the previous layer feature map (with occasional subsampling); 2) if max-pooling is replaced by a convolutional layer, then 3@3 is the minimum filter size to allow overlapping convolution with stride 2. 
 
-![1560946132484](https://github.com/wengzq/wengzq.github.io./master/assets/allconv.png)
+![1560946132484](wengzq/wengzq.github.io./master/assets/allconv.png)
